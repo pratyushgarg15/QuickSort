@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 18 14:26:39 2019
-
-@author: HP
-"""
 from math import floor
 
 count = 0
